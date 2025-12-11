@@ -1,0 +1,5 @@
+{
+  "name": "Courtroom Buddy",
+  "description": "A legal document understanding assistant that analyzes contracts and notices, identifying risks and explaining clauses in plain English or Hindi.",
+  "requestFramePermissions": []
+}
